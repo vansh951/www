@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Vansh</title>
+    <link>http://code.gndec.ac.in/~2030088/www/tags/</link>
+    <description>Recent content in Tags on Vansh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Dec 2020 06:00:16 -0500</lastBuildDate><atom:link href="http://code.gndec.ac.in/~2030088/www/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>scene</title>
+      <link>http://code.gndec.ac.in/~2030088/www/tags/scene/</link>
+      <pubDate>Wed, 30 Dec 2020 06:00:16 -0500</pubDate>
+      
+      <guid>http://code.gndec.ac.in/~2030088/www/tags/scene/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
